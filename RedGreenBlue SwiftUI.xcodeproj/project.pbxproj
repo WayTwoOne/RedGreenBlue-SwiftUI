@@ -13,7 +13,6 @@
 		E76F86242AF0ECAF009C9C74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E76F86232AF0ECAF009C9C74 /* Preview Assets.xcassets */; };
 		E76F862C2AF0EFF2009C9C74 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76F862B2AF0EFF2009C9C74 /* SliderView.swift */; };
 		E76F862E2AF0F5C2009C9C74 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76F862D2AF0F5C2009C9C74 /* TextFieldView.swift */; };
-		E785638B2AF292F600468986 /* Traine.swift in Sources */ = {isa = PBXBuildFile; fileRef = E785638A2AF292F600468986 /* Traine.swift */; };
 		E78831122AF3A0150082075A /* ViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78831112AF3A0150082075A /* ViewView.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		E76F86252AF0ECAF009C9C74 /* RedGreenBlue_SwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RedGreenBlue_SwiftUI.entitlements; sourceTree = "<group>"; };
 		E76F862B2AF0EFF2009C9C74 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		E76F862D2AF0F5C2009C9C74 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
-		E785638A2AF292F600468986 /* Traine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Traine.swift; sourceTree = "<group>"; };
 		E78831112AF3A0150082075A /* ViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,7 +63,6 @@
 				E76F862B2AF0EFF2009C9C74 /* SliderView.swift */,
 				E76F862D2AF0F5C2009C9C74 /* TextFieldView.swift */,
 				E78831112AF3A0150082075A /* ViewView.swift */,
-				E785638A2AF292F600468986 /* Traine.swift */,
 				E76F86202AF0ECAF009C9C74 /* Assets.xcassets */,
 				E76F86252AF0ECAF009C9C74 /* RedGreenBlue_SwiftUI.entitlements */,
 				E76F86222AF0ECAF009C9C74 /* Preview Content */,
@@ -155,7 +152,6 @@
 				E76F862C2AF0EFF2009C9C74 /* SliderView.swift in Sources */,
 				E76F862E2AF0F5C2009C9C74 /* TextFieldView.swift in Sources */,
 				E76F861D2AF0ECAE009C9C74 /* RedGreenBlue_SwiftUIApp.swift in Sources */,
-				E785638B2AF292F600468986 /* Traine.swift in Sources */,
 				E78831122AF3A0150082075A /* ViewView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -39,7 +39,6 @@ struct ColorSliderView: View {
                 .onChange(of: self.sliderValue) { newValue in
                     text = newValue.formatted(.number)
                 }
-                
         }
     }
 }
