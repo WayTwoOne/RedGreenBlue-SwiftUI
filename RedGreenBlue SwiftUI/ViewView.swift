@@ -23,10 +23,3 @@ struct ViewView: View {
         color / 255
     }
 }
-
-//
-//struct ViewView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ViewView()
-//    }
-//}
